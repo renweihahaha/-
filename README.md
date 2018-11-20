@@ -61,7 +61,7 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/josnoh/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 
 ---
@@ -86,7 +86,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/josnoh/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 ---
@@ -354,7 +354,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/josnoh/doubi/master/ocserv.sh && chmod +x ocserv.sh && bash ocserv.sh
 ```
 
 ---
